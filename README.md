@@ -1,20 +1,9 @@
-# 🧠 Medical Study — Short Source Plan (CS Student)
+#  Medical Study — Short Source Plan (CS Student)
 
 ### **1. Main Learning Resource**
 
 - **Khan Academy – Health & Medicine**  
     [https://www.khanacademy.org/science/health-and-medicine](https://www.khanacademy.org/science/health-and-medicine)
-    
-
-Focus on:
-
-- Human body systems (circulatory, respiratory, nervous)
-    
-- Basic physiology
-    
-- Conceptual disease mechanisms (no treatments)
-    
-
 ---
 
 ### **2. 3D Visual/Interactive Anatomy**
@@ -39,4 +28,4 @@ Use these to explore organs, systems, and spatial relationships.
 
 ## 4.Books :
 - [[Being Mortal - Atul Gawande]]
-- [[The Emperor of All Maladies - Siddhartha Mukherjee]]# Medical-Notes
+- [[The Emperor of All Maladies - Siddhartha Mukherjee]]
