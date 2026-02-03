@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "Medical/notes"
+    order:
+      - file.name
+      - source
+      - author
+    image: note.banner
+    cardSize: 250
+    imageAspectRatio: 0.45

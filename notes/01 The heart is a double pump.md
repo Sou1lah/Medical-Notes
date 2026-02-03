@@ -4,11 +4,13 @@ source: https://www.khanacademy.org/science/health-and-medicine/human-anatomy-an
 author:
   - "[[Khan Academy]]"
 published:
-created: 2026-01-22
+date: 2026-01-22
 description:
 tags:
   - clippings
 banner: https://cdn.kastatic.org/ka-perseus-images/97f3706142ae6707993331699ae51d2a12fa9780.jpg
+cssclasses:
+  - bg--lines
 ---
 ## What cells need
 
@@ -75,3 +77,8 @@ That’s why the human body needs two pumps working at different pressures, high
 
 
 
+* aerota : 
+* atrium : 
+* ventricals : 
+* veins : 
+* arteries : 
